@@ -5,7 +5,7 @@
 
 Hello World , I'm Owshnik Ghosh👋:
 
-- 🎓 Computer Science undergrad from GNIT ,Kolkata
+- 🎓 Student of Electronics and Communication Engineering from GNIT ,Kolkata
 - 👀 I’m interested in Competitive Programming and Full Stack Development...
 - 🌱 I’m currently learning PHP, UX/UI Design...
 - 📫 Contact me *[here](owshnikghosh2000@gmail.com)*
