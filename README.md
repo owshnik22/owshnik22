@@ -14,7 +14,7 @@ Hello World , I'm Owshnik Ghosh👋:
 
 ## 📚 My Skills
 
-(./cover2.jpg)
+![Owshnik's-cover](./cover2.jpg)
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
