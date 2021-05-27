@@ -1,4 +1,4 @@
-## About Me 👦
+### About Me 👦
 
 ![Owshnik's-cover](./cover.jpeg)
 
@@ -13,8 +13,8 @@ Hello World , I'm Owshnik Ghosh👋:
 
 <!-- - 📄 My Resume [https://drive.google.com/file/d/1V1_PN5usO1yeaiKzBxUKjm2uXV-eD_T4/view?usp=sharing) -->
 
-## 📚 My Skills
-
+### 📚 My Skills
+<!--
 ![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,10 +22,26 @@ Hello World , I'm Owshnik Ghosh👋:
 ![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+-->
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GCP" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
+<img align="left" alt="AWS" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
+<img align="left" alt="google_analytics" width="70" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_analytics.jpg" />
+<img align="left" alt="google_data_studio" width="70" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_data_studio.png" />
+<img align="left" alt="tableau" width="70" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg" />
 
 ![Owshnik's-cover](./cover2.jpg)
 
-## 🤝 Connect
+### 🤝 Connect
 
 <a href="https://www.facebook.com/owshnik.ghosh.9/" rel="nofollow"><img src="https://camo.githubusercontent.com/84968c928d08202118a0a6fe1ea69b0a75c5c8d38ae64c5150f40c56531ca17b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46414345424f4f4b2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width:100%;"></a>
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owshnik-ghosh/)
