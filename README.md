@@ -1,14 +1,15 @@
-## 🧔 About Me
+## About Me 👦
 
 ![Owshnik's-cover](./cover.jpeg)
 
 
 Hello World , I'm Owshnik Ghosh👋:
 
-- 🎓 Student of Electronics and Communication Engineering
-- 👀 I’m interested in Competitive Programming and Full Stack Development...
-- 🌱 I’m currently learning PHP, UX/UI Design...
-- 📫 Contact me *[here](owshnikghosh2000@gmail.com)*
+- 🎓 Student of Electronics and Communication Engineering 👨‍🎓
+- 👀 I’m interested in Competitive Programming and Full Stack Development... 🌈
+- 🌱 I’m currently learning PHP, AWS, UX/UI Design... ✨
+- 💁‍♂️ Fun fact: Love to singing 🎤 and playing cricket 🏏
+- 📫 Contact me *[here](owshnikghosh2000@gmail.com)* 💌
 
 <!-- - 📄 My Resume [https://drive.google.com/file/d/1V1_PN5usO1yeaiKzBxUKjm2uXV-eD_T4/view?usp=sharing) -->
 
@@ -32,4 +33,4 @@ Hello World , I'm Owshnik Ghosh👋:
 [![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shniki_boy____/?hl=en)
 
 
-##  WELCOME TO MY PLACE OF PASSION... : D
+## 👨🏻‍💻👨🏻‍💻👨🏻‍💻 WELCOME TO MY PLACE OF PASSION...
