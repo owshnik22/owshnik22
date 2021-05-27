@@ -23,8 +23,10 @@ Hello World , I'm Owshnik Ghosh👋:
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 -->
-
+<img align="left" alt="C" width="28px" src="https://raw.githubusercontent.com/owshnik22/owshnik22/main/c%20programming.png" />
+<img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/owshnik22/owshnik22/main/java.png" />
 <img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="DS" width="28px" src="https://raw.githubusercontent.com/owshnik22/owshnik22/main/datastructures.png" />
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
