@@ -1,4 +1,4 @@
-### About Me 👦
+### 👦 About Me
 
 ![Owshnik's-cover](./cover.jpeg)
 
