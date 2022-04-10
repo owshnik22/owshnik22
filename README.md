@@ -6,7 +6,7 @@
 Hello World , I'm Owshnik Ghosh👋:
 
 - 🎓 Student of Electronics and Communication Engineering 👨‍🎓
-- 👀 I’m interested in Artificial Intelligence and Full Stack Development... 🌈
+- 👀 I’m interested in Data Analysis, Artificial Intelligence and Full Stack Development... 🌈
 - 🌱 I’m currently learning Hadoop, DWH, JAVA Full Stack... ✨
 - 💁‍♂️ Fun fact: Love to singing 🎤 and playing cricket 🏏
 - 📫 Contact me *[here](owshnikghosh2000@gmail.com)* 💌
